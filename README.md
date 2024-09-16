@@ -1,3 +1,5 @@
+![Ing. logo](https://github.com/fiatlinuxorg/ing-style-guide/blob/main/assets/ing.png?raw=true)
+
 # Ing. Mobile App Style Guide
 
 This repository contains the official style guide and UX guidelines for the "Ing." mobile application, a dating app designed specifically for university students and engineers. The goal of this guide is to ensure that every page and interaction in the app adheres to a consistent design language, providing a seamless and cohesive user experience.
